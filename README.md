@@ -16,7 +16,7 @@ I’ve worked with Active Directory and Group Policy, configured account policie
 
 ## 📄 View My Resume
 
-[Mohammad R Hakeem Resume 2026.pdf](https://github.com/user-attachments/files/24577668/Mohammad.R.Hakeem.Resume.2026.pdf)
+[Resume](https://github.com/user-attachments/files/24577668/Mohammad.R.Hakeem.Resume.2026.pdf)
 
 
 
@@ -67,7 +67,9 @@ Hands-on AWS lab covering EC2 (Windows & Ubuntu), EFS, S3, VPC networking, and c
 
 Provisioning and managing an Ubuntu Linux server on AWS EC2 to demonstrate cloud virtualization and basic system administration fundamentals.
 
- **[View Project](https://github.com/user-attachments/files/24603098/CMIT.495.Project.2.Cloud.Computing-.Mohammad.Raza.Hakeem.docx)**
+
+[View Project](https://github.com/user-attachments/files/24603877/Project.1.Virtualization.Assignment.Template.Mohammad.Raza.Hakeem.docx)
+
 
  **🛠️ Tools Used:**
 -  Amazon Web Services (AWS)
@@ -95,9 +97,11 @@ Provisioning and managing an Ubuntu Linux server on AWS EC2 to demonstrate cloud
 
 **Description:**
 
+[View Project](https://github.com/user-attachments/files/24603850/Auditing.Enhancement.docx)
+
 Configured enhanced Windows auditing and deployed an Elastic SIEM to ingest, analyze, and visualize host-based security logs using Sysmon and Winlogbeat.
 
-[View Project](https://github.com/user-attachments/files/24577633/CMIT.495.Project.2.Cloud.Computing-.Mohammad.Raza.Hakeem.docx)
+
 
 **🛠️ Tools Used:**
 - Accurate and scoped to this project only:
