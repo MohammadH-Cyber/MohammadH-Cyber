@@ -39,12 +39,13 @@ I’ve worked with Active Directory and Group Policy, configured account policie
 
 
 **Description:**  
+
 Hands-on AWS lab covering EC2 (Windows & Ubuntu), EFS, S3, VPC networking, and cloud security fundamentals.
 
 [View Project](https://github.com/user-attachments/files/24577633/CMIT.495.Project.2.Cloud.Computing-.Mohammad.Raza.Hakeem.docx)
 
 
-**Tools Used:**  
+ **🛠️ Tools Used:** 
 - AWS EC2, EFS, S3, VPC  
 - Windows Server, Ubuntu Linux  
 - SSH, RDP
@@ -63,11 +64,12 @@ Hands-on AWS lab covering EC2 (Windows & Ubuntu), EFS, S3, VPC networking, and c
 ##  AWS Virtualization and Linux Server Provisioning 
 
 **Description:**  
+
 Provisioning and managing an Ubuntu Linux server on AWS EC2 to demonstrate cloud virtualization and basic system administration fundamentals.
 
- **[View Project](https://github.com/user-attachments/files/24603098/CMIT.495.Project.2.Cloud.Computing-.Mohammad.Raza.Hakeem.docx))**
+ **[View Project](https://github.com/user-attachments/files/24603098/CMIT.495.Project.2.Cloud.Computing-.Mohammad.Raza.Hakeem.docx)**
 
-**Tools Used:**  
+ **🛠️ Tools Used:**
 -  Amazon Web Services (AWS)
 -  AWS EC2
 -  Ubuntu Server
@@ -87,7 +89,47 @@ Provisioning and managing an Ubuntu Linux server on AWS EC2 to demonstrate cloud
 
 ---
 
-## Network Vulnerability Assessment and Penetration Testing Lab
+
+
+## Auditing Enhancement and SIEM Implementation 
+
+**Description:**
+
+Configured enhanced Windows auditing and deployed an Elastic SIEM to ingest, analyze, and visualize host-based security logs using Sysmon and Winlogbeat.
+
+[View Project](https://github.com/user-attachments/files/24577633/CMIT.495.Project.2.Cloud.Computing-.Mohammad.Raza.Hakeem.docx)
+
+**🛠️ Tools Used:**
+- Accurate and scoped to this project only:
+- Windows 10/11
+- Local Security Policy (secpol.msc)
+- Windows Firewall logging
+- Sysmon (Sysinternals)
+- Sysmon configuration (SwiftOnSecurity)
+- Elastic Stack
+- Elasticsearch
+- Kibana
+- Winlogbeat
+- YAML configuration files
+- Windows Event Viewer
+- Virtual machine environment
+
+**Skills Demonstrated:**
+
+- Windows security auditing configuration
+- Host-based logging and event collection
+- Security event analysis and correlation
+- SIEM deployment and configuration
+- Log ingestion and parsing using Winlogbeat
+- Sysmon process and network monitoring
+- Firewall logging and analysis
+- Detection of authentication and process activity
+- Investigation of security events (Event ID 4624, Sysmon Event ID 1)
+- Log visualization and searching in Kibana
+
+---
+
+## Network Vulnerability Assessment and Penetration Testing 
 
 **Description:**  
 Network and service discovery using Nmap to identify exposed services and potential vulnerabilities.
@@ -95,7 +137,7 @@ Network and service discovery using Nmap to identify exposed services and potent
  [View Project](https://github.com/user-attachments/files/24579909/SystemScanTemplate-.Mohammad.Raza.Hakeem.docx)
 
 
-**Tools Used:**  
+**🛠️ Tools Used:**  
 
 - Kali Linux
 - Metasploitable
@@ -115,9 +157,10 @@ Network and service discovery using Nmap to identify exposed services and potent
 - Exploitation and privilege escalation
 - Web application vulnerability analysis (XSS)
 - Security findings documentation and reporting
+
 ---
 
-## VSFTPD 2.3.4 Exploitation and Penetration Testing Report
+## VSFTPD 2.3.4 Exploitation and Penetration Testing 
 
 **Description:** 
 Exploitation of the vsftpd 2.3.4 backdoor to evaluate system security and post-exploitation risk.
@@ -125,8 +168,7 @@ Exploitation of the vsftpd 2.3.4 backdoor to evaluate system security and post-e
  [View Project](https://github.com/user-attachments/files/24603120/PenetrationTestReportTemplate.Mohammad.Hakeem.docx)
 
 
-**Tools Used**
-
+**🛠️ Tools Used:** 
 - Kali Linux
 - Metasploitable
 - Zenmap (Nmap)
@@ -150,9 +192,8 @@ Exploitation of the vsftpd 2.3.4 backdoor to evaluate system security and post-e
 - Risk assessment and impact analysis
 
 ## 📬 Contact
-- 💼 LinkedIn: **[Add your LinkedIn URL]**
-- 📧 Email: **[Optional]**
+- 💼  [Linkedin](https://www.linkedin.com/in/mohammad-raza-hakeem-575091250/)
+- 📧  Raza5499@gmail.com
 
 ---
 
-⭐ *This portfolio showcases hands-on cybersecurity and cloud projects completed in controlled, ethical environments for educational purposes.*
