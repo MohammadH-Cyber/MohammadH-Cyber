@@ -68,7 +68,7 @@ Hands-on AWS lab covering EC2 (Windows & Ubuntu), EFS, S3, VPC networking, and c
 Provisioning and managing an Ubuntu Linux server on AWS EC2 to demonstrate cloud virtualization and basic system administration fundamentals.
 
 
-[View Project](https://github.com/user-attachments/files/24603877/Project.1.Virtualization.Assignment.Template.Mohammad.Raza.Hakeem.git)
+[View Project](https://github.com/user-attachments/files/24603877/Project.1.Virtualization.Assignment.Template.Mohammad.Raza.Hakeem.docx)
 
 
  **🛠️ Tools Used:**
